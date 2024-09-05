@@ -15,6 +15,7 @@ class Baitap
     }
     void Bai1()
     {
+        Console.WriteLine("Bai 1:");
         Console.Write("Nhap so phan tu: ");
         int n = int.Parse(Console.ReadLine());
 
@@ -37,6 +38,7 @@ class Baitap
 
     void Bai2()
     {
+        Console.WriteLine("Bai 2:");
         Console.WriteLine("Nhap chuoi ki tu:");
         string n = Console.ReadLine();
 
@@ -45,7 +47,7 @@ class Baitap
         for (int i = 0; i < n.Length; i++)
         {
             char c = n[i];
-            if (char.IsLetterOrDigit(c))s
+            if (char.IsLetterOrDigit(c))
             {
                 count++;
             }
@@ -55,6 +57,7 @@ class Baitap
 
     void Bai3()
     {
+        Console.WriteLine("Bai 3:");
         Console.Write("Nhap so phan tu: ");
         int n = int.Parse(Console.ReadLine());
 
@@ -82,7 +85,8 @@ class Baitap
 
 
     void Bai4()
-    { 
+    {
+        Console.WriteLine("Bai 4:");
         Console.WriteLine("Nhap chuoi ki tu:");
         string n = Console.ReadLine();
 
@@ -99,6 +103,7 @@ class Baitap
 
     void Bai5()
     {
+        Console.WriteLine("Bai 5:");
         Console.Write("Nhap so phan tu: ");
         int n = int.Parse(Console.ReadLine());
 
@@ -131,11 +136,12 @@ class Baitap
         }
         
     }
-
+    s
 
 
     void Bai6()
     {
+        Console.WriteLine("Bai 6:");
         Console.WriteLine("Nhap chuoi ki tu:");
         string n = Console.ReadLine();
 
