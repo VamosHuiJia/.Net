@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\QLMayBay\bin\Debug\QLMayBay.exe.config
+C:\Users\Admin\source\repos\QLMayBay\bin\Debug\QLMayBay.exe
+C:\Users\Admin\source\repos\QLMayBay\bin\Debug\QLMayBay.pdb
+C:\Users\Admin\source\repos\QLMayBay\obj\Debug\QLMayBay.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QLMayBay\obj\Debug\QLMayBay.Form1.resources
+C:\Users\Admin\source\repos\QLMayBay\obj\Debug\QLMayBay.Properties.Resources.resources
+C:\Users\Admin\source\repos\QLMayBay\obj\Debug\QLMayBay.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QLMayBay\obj\Debug\QLMayBay.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLMayBay\obj\Debug\QLMayBay.exe
+C:\Users\Admin\source\repos\QLMayBay\obj\Debug\QLMayBay.pdb
