@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\QLNhaSach\bin\Debug\QLNhaSach.exe.config
+C:\Users\Admin\source\repos\QLNhaSach\bin\Debug\QLNhaSach.exe
+C:\Users\Admin\source\repos\QLNhaSach\bin\Debug\QLNhaSach.pdb
+C:\Users\Admin\source\repos\QLNhaSach\obj\Debug\QLNhaSach.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QLNhaSach\obj\Debug\QLNhaSach.DangNhap.resources
+C:\Users\Admin\source\repos\QLNhaSach\obj\Debug\QLNhaSach.HeThong.resources
+C:\Users\Admin\source\repos\QLNhaSach\obj\Debug\QLNhaSach.LoaiSach.resources
+C:\Users\Admin\source\repos\QLNhaSach\obj\Debug\QLNhaSach.Properties.Resources.resources
+C:\Users\Admin\source\repos\QLNhaSach\obj\Debug\QLNhaSach.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QLNhaSach\obj\Debug\QLNhaSach.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QLNhaSach\obj\Debug\QLNhaSach.exe
+C:\Users\Admin\source\repos\QLNhaSach\obj\Debug\QLNhaSach.pdb
